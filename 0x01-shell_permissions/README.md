@@ -6,3 +6,5 @@
 5 - The script adds execute permission to the owner of the file hello
 6 - The script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 7 - The script adds execution permission to the owner, the group owner and the other users, to the file hello
+9 - The script changes the mode of hello file to -rwxr-x-wx
+9 - The script changes the mode of hello file to -rwxr-x-wx
