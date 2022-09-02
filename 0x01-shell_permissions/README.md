@@ -9,3 +9,4 @@
 9 - The script changes the mode of hello file to -rwxr-x-wx
 9 - The script changes the mode of hello file to -rwxr-x-wx
 10 - The script mirrors the permissions of olleh to hello file at any mode
+ 11 - The script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
