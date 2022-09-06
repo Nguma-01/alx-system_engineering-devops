@@ -8,3 +8,4 @@ Task 8: The script writes into the file ls_cwd_content the result of the command
 Task 11: The script counts the number of directories and sub-directories in the current directory
 Task 12: The script displays the 10 newest files in the current directory
 Task 13: The script takes a list of words as input and prints only words that appear exactly once
+Task 14: The script displays lines containing the pattern “root” from the file /etc/passwd
