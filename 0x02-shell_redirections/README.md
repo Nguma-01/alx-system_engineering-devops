@@ -6,3 +6,4 @@ Task 5: The script displays the first 10 lines of /etc/passwd
 Task 6: The script displays the third line of the file iacta
 Task 8: The script writes into the file ls_cwd_content the result of the command ls -la
 Task 11: The script counts the number of directories and sub-directories in the current directory
+Task 12: The script displays the 10 newest files in the current directory
